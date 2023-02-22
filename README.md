@@ -1,3 +1,3 @@
 # KoKoa Clone 2020 Update
 
-CSS got so nuch better!
+HTML & CSS are so nuch fun!
